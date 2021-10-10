@@ -25,7 +25,7 @@
     <string name="feedBack_text_DQ">详细问题</string>
     <string name="feedBack_text_selectType">请选择问题类型</string>
     <string name="feedBack_text_submissionFailed">提交失败</string>
-    <string name="feedBack_text_submittedSuccessfully">提交成功</string>
+    <string name="feedBack_text_submittedSuccessfully">提交成功，您的反馈ID为：</string>
     <string name="text_loading">加载中...</string>
     <string name="main_dialog_lrcErr_negativeBtn">前往反馈</string>
     <string name="feedBack_text_inputMail">请输入您的邮箱</string>
@@ -83,4 +83,19 @@
     <string name="setting_deskLrc_defaultColor">使用默认颜色</string>
     <string name="setting_deskLrc_textColor">文字颜色</string>
     <string name="setting_deskLrc_locking">锁定桌面歌词</string>
+    <string name="setting_qqgroup_tip">免审核加群功能现已上线，点击 生成邀请码 可获取邀请码并在QQ中输入邀请码到加群问题回答框即可免审核入群</string>
+    <string name="setting_qqgroup_y">生成邀请码</string>
+    <string name="setting_deskLrc_size">文字大小</string>
+    <string name="feedBack_text_submittedSuccessfully2">请保管好此ID！他将用来查询处理结果</string>
+    <string name="copy">复制</string>
+    <string name="query">查询</string>
+    <string name="feedBack_query_hint">请输入反馈ID</string>
+    <string name="feedBack_query_Q">问：</string>
+    <string name="feedBack_query_Answer">答：</string>
+    <string name="feedBack_query_state">处理状态：</string>
+    <string name="feedBack_query_state_invalid">ID 无效</string>
+    <string name="feedBack_query_state_notProcessed">暂未处理</string>
+    <string name="error">错误</string>
+    <string name="feedBack_query_state_processed">已处理</string>
+    <string name="feedBack_mailTip">反馈成功后您会获得您本次反馈的ID，您可以使用此ID来查询处理结果。如果忘记了ID也不必担心，在处理完成后，我们会通过您留下的联系方式将ID再次发送给您</string>
 </resources>
