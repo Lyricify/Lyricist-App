@@ -11,3 +11,7 @@
 **如果您愿意将Lyricist翻译为更多语言，可以下载并编辑 [这个文档](https://github.com/Lyricify/Lyricist-App/blob/main/Language/zh-cn.xml "这个文档")，然后通过上面的联系方式联系我，十分感谢您的支持**
 
 **"电脑版 Lyricist" Lyricify： https://github.com/WXRIW/Lyricify-App**
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Lyricify/Lyricist-App&type=Date)](https://star-history.com/#Lyricify/Lyricist-App&Date)
